@@ -1,2 +1,2 @@
-# AcemiDeveloperApp.github.io
+# yasinyeni.github.io
 This is for my android Apps
